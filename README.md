@@ -2,4 +2,4 @@
 
 Сайт-визитка кофейни с собственной обжаркой в Гусь-Хрустальном (Октябрьская ул., 19).
 
-Сайт: https://arseniyshugaev228-bit.github.io/kofeinya-19/
+Сайт: https://workstudio-takpol.github.io/kofeinya-19/
